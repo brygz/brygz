@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brygz
 - 👀 I’m interested in learning html,css and javascript
-- 🌱 I’m currently learning html programing language
+- 🌱 I’m currently learning html and css structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
